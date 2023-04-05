@@ -1,0 +1,8 @@
+[
+  {
+    "id": "SOLDIER0001",
+    "name": "Cloud Strife",
+    "soldierClass": "FIRST_CLASS",
+    "_class": "org.carbonsoldier.springbootgradleintegrationteststarter.Soldier"
+  }
+]
